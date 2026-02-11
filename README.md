@@ -214,6 +214,9 @@ The project generates a comprehensive visualization showing:
    - Visual overlap indicates how well the GAN learned the PDF
    - KDE curves should align closely for successful learning
 
+   <img width="976" height="574" alt="image" src="https://github.com/user-attachments/assets/37aaa713-8d8c-46bc-a907-ff1e80836789" />
+
+
 ### Expected Outcomes
 
 **Successful Training Indicators**:
